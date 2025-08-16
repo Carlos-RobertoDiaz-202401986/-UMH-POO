@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\github\\-UMH-POO\\Ejerccios\\Directorio\\Directorio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E717336-49FE-4B42-8775-58B2DD2D0A11}|Directorio.csproj|c:\\github\\-umh-poo\\ejerccios\\directorio\\directorio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E717336-49FE-4B42-8775-58B2DD2D0A11}|Directorio.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E717336-49FE-4B42-8775-58B2DD2D0A11}|Directorio.csproj|c:\\github\\-umh-poo\\ejerccios\\directorio\\directorio\\personas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E717336-49FE-4B42-8775-58B2DD2D0A11}|Directorio.csproj|solutionrelative:personas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E717336-49FE-4B42-8775-58B2DD2D0A11}|Directorio.csproj|c:\\github\\-umh-poo\\ejerccios\\directorio\\directorio\\marcador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E717336-49FE-4B42-8775-58B2DD2D0A11}|Directorio.csproj|solutionrelative:marcador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Marcador.cs",
+              "DocumentMoniker": "C:\\github\\-UMH-POO\\Ejerccios\\Directorio\\Directorio\\Marcador.cs",
+              "RelativeDocumentMoniker": "Marcador.cs",
+              "ToolTip": "C:\\github\\-UMH-POO\\Ejerccios\\Directorio\\Directorio\\Marcador.cs",
+              "RelativeToolTip": "Marcador.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T21:15:35.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Personas.cs",
+              "DocumentMoniker": "C:\\github\\-UMH-POO\\Ejerccios\\Directorio\\Directorio\\Personas.cs",
+              "RelativeDocumentMoniker": "Personas.cs",
+              "ToolTip": "C:\\github\\-UMH-POO\\Ejerccios\\Directorio\\Directorio\\Personas.cs",
+              "RelativeToolTip": "Personas.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAswDMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T21:14:47.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\github\\-UMH-POO\\Ejerccios\\Directorio\\Directorio\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\github\\-UMH-POO\\Ejerccios\\Directorio\\Directorio\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T21:14:08.157Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\github\-UMH-POO\Ejerccios\Directorio\Directorio\bin\Debug\Directorio.exe.config
+C:\github\-UMH-POO\Ejerccios\Directorio\Directorio\bin\Debug\Directorio.exe
+C:\github\-UMH-POO\Ejerccios\Directorio\Directorio\bin\Debug\Directorio.pdb
+C:\github\-UMH-POO\Ejerccios\Directorio\Directorio\obj\Debug\Directorio.csproj.AssemblyReference.cache
+C:\github\-UMH-POO\Ejerccios\Directorio\Directorio\obj\Debug\Directorio.csproj.CoreCompileInputs.cache
+C:\github\-UMH-POO\Ejerccios\Directorio\Directorio\obj\Debug\Directorio.exe
+C:\github\-UMH-POO\Ejerccios\Directorio\Directorio\obj\Debug\Directorio.pdb
