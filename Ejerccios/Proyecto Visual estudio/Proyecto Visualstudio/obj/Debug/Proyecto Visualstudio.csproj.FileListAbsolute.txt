@@ -1,0 +1,7 @@
+C:\github\-UMH-POO\Ejerccios\Proyecto Visual estudio\Proyecto Visualstudio\bin\Debug\Proyecto Visualstudio.exe.config
+C:\github\-UMH-POO\Ejerccios\Proyecto Visual estudio\Proyecto Visualstudio\bin\Debug\Proyecto Visualstudio.exe
+C:\github\-UMH-POO\Ejerccios\Proyecto Visual estudio\Proyecto Visualstudio\bin\Debug\Proyecto Visualstudio.pdb
+C:\github\-UMH-POO\Ejerccios\Proyecto Visual estudio\Proyecto Visualstudio\obj\Debug\Proyecto Visualstudio.csproj.AssemblyReference.cache
+C:\github\-UMH-POO\Ejerccios\Proyecto Visual estudio\Proyecto Visualstudio\obj\Debug\Proyecto Visualstudio.csproj.CoreCompileInputs.cache
+C:\github\-UMH-POO\Ejerccios\Proyecto Visual estudio\Proyecto Visualstudio\obj\Debug\Proyecto Visualstudio.exe
+C:\github\-UMH-POO\Ejerccios\Proyecto Visual estudio\Proyecto Visualstudio\obj\Debug\Proyecto Visualstudio.pdb
